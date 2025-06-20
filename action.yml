@@ -1,5 +1,5 @@
-name: "Podcast Generator"
-author: "Ray Villalobos"
+name: "Podcast Generator - Mo"
+author: "Ray Villalobos - Mo"
 description: "Generates a feed for a podcast from a YAML file"
 runs:
   using: "docker"
