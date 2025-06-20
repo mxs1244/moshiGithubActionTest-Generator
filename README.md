@@ -1,5 +1,14 @@
 # moshiGithubActionTest-Generator
 
+This project is used for learning Github Actions.
+
+Copyright from references:
+
+https://github.com/LinkedInLearning/github-practical-actions-4412872/tree/01_02b
+
+https://github.com/planetoftheweb/podcast-test
+https://github.com/planetoftheweb/podcast-generator
+
 # Podcast Feed Generator
 
 A GitHub action to generate a podcast feed from a YAML file. YAML is much easier to read and write than XML, and this action will convert your YAML file into a valid podcast feed.
