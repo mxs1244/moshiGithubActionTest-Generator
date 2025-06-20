@@ -34,6 +34,7 @@ Q: You've just finished developing a new GitHub Action for your team. How do you
 >![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Navigate to the repository on GitHub, create a new release with relevant notes and version, and hit Publish release.
 
 Correct
+
 Creating a release on GitHub allows users to download the source code and provides the versioning necessary for them to use the action in their projects.
 
 </span>
