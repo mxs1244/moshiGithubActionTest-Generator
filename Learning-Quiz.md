@@ -6,7 +6,7 @@ Q: You are managing a GitHub repository for a podcast and want to automate the p
 
 <span style="color: green">
 
->Create a GitHub action that triggers on a push to the main branch to generate the podcast feed and deploy it.
+>![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Create a GitHub action that triggers on a push to the main branch to generate the podcast feed and deploy it.
 
 Correct
 
@@ -31,7 +31,7 @@ Q: You've just finished developing a new GitHub Action for your team. How do you
 
 <span style="color: green">
 
->Navigate to the repository on GitHub, create a new release with relevant notes and version, and hit Publish release.
+>![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Navigate to the repository on GitHub, create a new release with relevant notes and version, and hit Publish release.
 
 Correct
 Creating a release on GitHub allows users to download the source code and provides the versioning necessary for them to use the action in their projects.
@@ -51,7 +51,7 @@ Q: You have finished writing an entrypoint.sh script for a Docker container, whi
 
 <span style="color: green">
 
->The script did not correctly stage the changes with git add before attempting a commit.
+>![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) The script did not correctly stage the changes with git add before attempting a commit.
 
 Correct
 
@@ -67,7 +67,7 @@ Q: You have created a new repository named 'podcast-generator' in GitHub. To ens
 
 <span style="color: green">
 
->Create a Dockerfile and an entry point file in the podcast-generator repository.
+>![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Create a Dockerfile and an entry point file in the podcast-generator repository.
 
 Correct
 
@@ -90,7 +90,7 @@ Q: You have created a GitHub action to generate podcast feeds but see that the w
 
 <span style="color: green">
 
->Run the command chmod -R 775 entrypoint.sh to change the permissions of the entrypoint.sh file.
+>![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Run the command chmod -R 775 entrypoint.sh to change the permissions of the entrypoint.sh file.
 
 Correct
 
@@ -108,7 +108,7 @@ Q: You are tasked with setting up a new GitHub Actions workflow in your reposito
 
 <span style="color: green">
 
->Define an action YAML file that specifies using Docker as the runner, set up the Docker file for processing, and ensure the entry point script handles the workflow execution.
+>![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Define an action YAML file that specifies using Docker as the runner, set up the Docker file for processing, and ensure the entry point script handles the workflow execution.
 
 Correct
 
